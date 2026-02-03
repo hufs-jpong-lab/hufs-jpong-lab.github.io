@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-members",
+          title: "Members",
+          description: "Current Members of JPONG LAB",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/members/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-join-the-division-of-language-amp-amp-ai-at-hufs-as-an-assistant-professor",
+          title: 'I join the Division of Language &amp;amp;amp; AI at HUFS as an Assistant...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
