@@ -51,18 +51,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+        },{id: "news-i-join-the-division-of-language-amp-amp-ai-at-hufs-as-an-assistant-professor",
+          title: 'I join the Division of Language &amp;amp;amp; AI at HUFS as an Assistant...',
+          description: "",
+          section: "News",},{id: "news-글로벌-인문사회융합-연구지원사업-선정",
+          title: '글로벌 인문사회융합 연구지원사업 선정',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-join-the-division-of-language-amp-amp-ai-at-hufs-as-an-assistant-professor",
-          title: 'I join the Division of Language &amp;amp;amp; AI at HUFS as an Assistant...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
