@@ -1,33 +1,23 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: 글로벌 인문사회융합 연구지원사업 선정
+date: 2025-07-10 00:00:00-0900
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+경영대학 최형용 교수 연구팀이 교육부와 한국연구재단(NRF)이 추진하는 [2025년도 글로벌 인문사회융합 연구지원사업]에 선정되었다 (연구책임자: 최형용 교수, 공동연구자: 교육대학원 이지연 교수, <strong>Language&AI융합학부 이재홍 교수</strong>, 박준형 교수).
+
+자세한 내용은 <a href="https://biz.hufs.ac.kr/biz/7707/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYml6JTJGMTM3MiUyRjIzMjA2NCUyRmFydGNsVmlldy5kbyUzRg==">여기</a>에서 확인할 수 있습니다.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+연구과제명은「심리학 이론에 기반한 디지털 동반자로서의 AI: 조절초점 이론, 미러링 이론, 감정전염 이론을 중심으로」로, 본 연구는 인간의 심리 메커니즘을 기반으로 AI의 감정적 상호작용 능력과 인간 중심 의사결정 지원 기능을 고도화하는 것을 목표로 한다.
 
-#### Hipster list
+본 과제는 2025년 6월부터 2028년 5월까지 약 3년간 진행되며, 총 예산은 간접비를 포함해 5억 8천 2백만 원이다. 연구는 특히 조절초점 이론, 미러링 이론, 감정전염 이론을 토대로, 사용자와 공감하고 감정을 반영할 수 있는 ‘디지털 동반자형 AI’를 구현하는 데 중점을 둔다.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+또한, 상담심리/심리치료, 인공지능 시스템 및 응용, 지능형 의사결정 시스템 등 다학제 융합 연구 방식으로 진행되어, 인문사회적 통찰과 AI 기술의 접목이라는 연구의 지향점을 구체화하고 있다.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+이번 연구는 기존 인공지능이 단순한 정보 제공이나 명령 수행에 그치지 않고, 사용자의 정서 상태와 동기를 이해하며 이에 능동적으로 반응하는 방향으로 나아가는 전환점을 제시한다.
 
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+향후 심리학 기반 감정 인식 및 조절형 AI 기술의 실용화 가능성을 높임으로써, 상담·교육·돌봄·정신건강 등 다양한 분야에서 실질적인 사회적 기여가 기대된다.
