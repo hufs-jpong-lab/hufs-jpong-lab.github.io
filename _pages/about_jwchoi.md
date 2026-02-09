@@ -1,3 +1,3 @@
 #### Research Interests
 
-- Test Time Adaptation
+- Domain Adaptation
