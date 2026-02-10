@@ -91,8 +91,8 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=tZmWk14AAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-hufs_lai',
+        title: 'Hufs_lai',
         section: 'Socials',
         handler: () => {
           window.open("https://langai.hufs.ac.kr/langai/index.do", "_blank");
