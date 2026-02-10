@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: JPONG LAB @<a href='https://langai.hufs.ac.kr/sites/langai/index.do'>HUFS</a>
+subtitle: <a href='https://langai.hufs.ac.kr/sites/langai/index.do'>Division of Language & AI</a>, <a href='https://www.hufs.ac.kr/sites/hufs/index.html'>HUFS</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>107, Imun-ro, Dongdaemun-gu, Seoul, Republic of Korea</p>
+    <p>Professor Jae-Hong Lee</p>
     <p>Faculty Building #401</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,4 +21,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Welcome to JPONG LAB at HUFS.
+Welcome to JPONG LAB. The website is under construction.
