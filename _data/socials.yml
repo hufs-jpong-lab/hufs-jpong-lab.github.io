@@ -53,6 +53,6 @@ scholar_userid: tZmWk14AAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://langai.hufs.ac.kr/sites/langai/masterSkin/langai_JW_MS_K2WT001_M/images/logo_symbol.svg # can be png, svg, jpg
+  logo: assets/img/hufs_symbol.svg # can be png, svg, jpg
   title: Language & AI
   url: https://langai.hufs.ac.kr/langai/index.do
